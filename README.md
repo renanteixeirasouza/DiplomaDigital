@@ -3,7 +3,7 @@ Modelo conceitual das relações do diploma digital brasileiro
 
 Este repositório disponibiliza o modelo conceitual completo das relações do diploma digital brasileiro. O modelo foi elaborado a partir da análise dos documentos normativos e técnicos e dos esquemas XSD da versão 1.05, tendo como principal referência o arquivo leiauteDiplomaDigital_v1.05.xsd. Sua finalidade é explicitar entidades, tipos, atributos, relações, restrições e cardinalidades associados à emissão, ao registro e à verificação do diploma digital.
 
-Principais encadeamentos
+# Principais encadeamentos
 
 O núcleo do modelo é organizado por TInfDiploma, estrutura que reúne as informações centrais do diploma e estabelece os vínculos com os diferentes fluxos representados. A partir desse núcleo, destacam-se os seguintes encadeamentos:
 
